@@ -38,4 +38,8 @@ Regras de trabalho:
 
 ## Onde estamos
 
-Fase 1. Etapa atual: configurar o projeto Next.js, conectar ao GitHub e publicar uma página inicial simples na Vercel. Próximas etapas: banco de dados no Supabase, agenda do painel, página pública.
+Fase 1.
+
+- Concluída: projeto Next.js criado, código no GitHub (`davigualbertodiaz-dev/entretons`) e publicado na Vercel em https://entretons-1bx3.vercel.app. Cada push na `main` publica automaticamente.
+- Etapa atual: banco de dados no Supabase.
+- Próximas etapas: agenda do painel, página pública.
